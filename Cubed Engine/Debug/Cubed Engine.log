@@ -1,0 +1,36 @@
+﻿Build started 6/27/2013 10:50:55 AM.
+     1>Project "C:\Users\Brandon\Documents\Visual Studio 2010\Projects\Cubed Engine\Cubed Engine\Cubed Engine.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Cubed Engine.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt BoundingVolume.cpp DeviceEnum.cpp DX11Init.cpp FPSEngine.cpp Input.cpp LuaScript.cpp main.cpp Material.cpp Mesh.cpp Object.cpp RenderCache.cpp State.cpp
+         State.cpp
+     1>c:\users\brandon\documents\visual studio 2010\projects\cubed engine\cubed engine\fpsengine.h(35): fatal error C1083: Cannot open include file: 'xnamath.h': No such file or directory
+         RenderCache.cpp
+     1>c:\users\brandon\documents\visual studio 2010\projects\cubed engine\cubed engine\fpsengine.h(35): fatal error C1083: Cannot open include file: 'xnamath.h': No such file or directory
+         Object.cpp
+     1>c:\users\brandon\documents\visual studio 2010\projects\cubed engine\cubed engine\fpsengine.h(35): fatal error C1083: Cannot open include file: 'xnamath.h': No such file or directory
+         Mesh.cpp
+     1>c:\users\brandon\documents\visual studio 2010\projects\cubed engine\cubed engine\fpsengine.h(35): fatal error C1083: Cannot open include file: 'xnamath.h': No such file or directory
+         Material.cpp
+     1>c:\users\brandon\documents\visual studio 2010\projects\cubed engine\cubed engine\fpsengine.h(35): fatal error C1083: Cannot open include file: 'xnamath.h': No such file or directory
+         main.cpp
+     1>c:\users\brandon\documents\visual studio 2010\projects\cubed engine\cubed engine\fpsengine.h(35): fatal error C1083: Cannot open include file: 'xnamath.h': No such file or directory
+         LuaScript.cpp
+     1>c:\users\brandon\documents\visual studio 2010\projects\cubed engine\cubed engine\fpsengine.h(35): fatal error C1083: Cannot open include file: 'xnamath.h': No such file or directory
+         Input.cpp
+     1>c:\users\brandon\documents\visual studio 2010\projects\cubed engine\cubed engine\fpsengine.h(35): fatal error C1083: Cannot open include file: 'xnamath.h': No such file or directory
+         FPSEngine.cpp
+     1>c:\users\brandon\documents\visual studio 2010\projects\cubed engine\cubed engine\fpsengine.h(35): fatal error C1083: Cannot open include file: 'xnamath.h': No such file or directory
+         DX11Init.cpp
+     1>c:\users\brandon\documents\visual studio 2010\projects\cubed engine\cubed engine\fpsengine.h(35): fatal error C1083: Cannot open include file: 'xnamath.h': No such file or directory
+         DeviceEnum.cpp
+     1>c:\users\brandon\documents\visual studio 2010\projects\cubed engine\cubed engine\fpsengine.h(35): fatal error C1083: Cannot open include file: 'xnamath.h': No such file or directory
+         BoundingVolume.cpp
+     1>c:\users\brandon\documents\visual studio 2010\projects\cubed engine\cubed engine\fpsengine.h(35): fatal error C1083: Cannot open include file: 'xnamath.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "C:\Users\Brandon\Documents\Visual Studio 2010\Projects\Cubed Engine\Cubed Engine\Cubed Engine.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:11.41
